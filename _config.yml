@@ -1,0 +1,40 @@
+typography_spectrum: 0.03833739133551717
+color:
+  brandStrength: 0.2602492836304009
+  lightness: 0.11336648277938366
+  saturation: 0.9081177341286093
+  rhythmicContrast: 0.28282614843919873
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+github: true
+layout_spectrum: 0.2140448223799467
+author:
+  name: Kirill
+  email: ozeritski@gmail.com
+name: lobusch-consulting.com
+navigation:
+  - name: Consulting
+    id: daeacf41-ccc4-4eb2-9b5a-221f7382d589
+    type: content
+  - name: Kind human resources
+    id: 4634e5e2-e5e1-4515-8316-777d7009c365
+    type: content
+  - name: Corporate resources
+    id: 47d61d97-3eaa-43a3-b44c-1c3062558a33
+    type: content
+title: Globusch party
+description: >-
+  A team of German and Ukrainian management consultants guiding in the Ukrainian
+  business environment. Our team of partners consults in the areas of
+  Management, Human Resources and Law.
+purpose:
+  - type: contact
+    url: 'mailto:ozeritski@gmail.com'
+    label: Contact me
+  - type: external
+    url: 'http://lobusch-consulting.com'
+    label: Go to globusch origin
