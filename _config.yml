@@ -1,9 +1,10 @@
-typography_spectrum: 0.03833739133551717
+layout_spectrum: 0.3437160588800907
+typography_spectrum: 0.17656763992272317
 color:
-  brandStrength: 0.2602492836304009
-  lightness: 0.11336648277938366
-  saturation: 0.9081177341286093
-  rhythmicContrast: 0.28282614843919873
+  brandStrength: 0.46141424984671175
+  lightness: 0.28028891794383526
+  saturation: 0.7321344462689012
+  rhythmicContrast: 0.416314210742712
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
@@ -11,7 +12,6 @@ color:
     - '#3E606F'
     - '#193441'
 github: true
-layout_spectrum: 0.2140448223799467
 author:
   name: Kirill
   email: ozeritski@gmail.com
